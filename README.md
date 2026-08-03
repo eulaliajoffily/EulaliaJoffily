@@ -1,8 +1,9 @@
 <div align="center">
-  <title color="White">Welcome to my GitHub Profile!</title>
+  <p color="White">Welcome to my GitHub Profile!</p>
 </div>
-<div>
-  <p>Visitor Count!</p>
-  ![](https://komarev.com/ghpvc/?username=eulaliajoffily)
-</div>
+  <p align="center> Visitor Count! </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=eulaliajoffily" alt="VisitorCount!" />
+  </p>
+
 <img src="HatsuneMikuGitHubBanner.png" alt="Self edited Hatsune Miku Greetings Banner!">
