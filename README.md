@@ -36,6 +36,6 @@
 <h2>🛠️ Languages and Tools</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,kotlin,androidstudio,react,gradle,mongodb" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=java,cs,py,kotlin,androidstudio,react,gradle,mongodb,flask" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,mysql" />
 </p>
