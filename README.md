@@ -16,7 +16,7 @@
   </h1>
   <h3>
     I'm a brazilian software test engineer, also developer, did a post-graduation at the CIn-Motorola project at UFPE (Pernambuco's Federal University) Informatics Center. <br>
-    Most of the projects in here are development projects, but my practical experience involves mostly Android testing!.
+    Most of the projects in here are development projects, but my practical experience involves mostly Android testing!
   </h3>
   <ul>
     <li>👩‍🎓 I'm graduated as a System Developer and Analystic and post graduated as a Software Tester and Engineer <a href=https://www.linkedin.com/company/cinmotorola/>@CIn-Motorola</a></li>
