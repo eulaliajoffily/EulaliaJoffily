@@ -23,3 +23,12 @@
     <li>📘 Currently studying <a href=https://developer.android.com/kotlin?hl=pt-br>Kotlin Android Development</a></li>
   </ul>
 </div>
+<hr>
+<div align="center">
+  <a href="eulaliajoffily@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/eul%C3%A1lia-joffily-99868a266/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
