@@ -32,3 +32,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<hr>
+<h2>🛠️ Languages and Tools</h2>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,py,kotlin,androidstudio,react,gradle,mongodb" /> <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git" />
+</p>
