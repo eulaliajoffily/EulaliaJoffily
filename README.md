@@ -4,7 +4,7 @@
 <div>
   <p align="center> Visitor Count! </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=eulaliajoffily" alt="VisitorCount!"/>
+    <img src="https://komarev.com/ghpvc/?username=eulaliajoffily&color=7F00FF" alt="VisitorCount!"/>
   </p>
 </div>
 <div>
