@@ -12,7 +12,7 @@
 </div>
 <div>
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=04d4e8&duration=4000&lines=Hi+There!+👋;+I'm+Eulalia!;" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=04d4e8&duration=4000&lines=Hi+There!+👋;+I'm+Eulália!;" />
   </h1>
   <h3>
     I'm a brazilian software test engineer, also developer, did a post-graduation at the CIn-Motorola project at UFPE (Pernambuco's Federal University) Informatics Center. <br>
