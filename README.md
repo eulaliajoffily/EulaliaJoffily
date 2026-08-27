@@ -20,7 +20,7 @@
   </h3>
   <ul>
     <li>👩‍🎓 I'm graduated as a System Developer and Analystic and post graduated as a Software Tester and Engineer <a href=https://www.linkedin.com/company/cinmotorola/>@CIn-Motorola</a></li>
-    <li>📘 Currently studying <a href=[https://developer.android.com/kotlin?hl=pt-br](https://docs.flutter.dev)>Flutter Android Development</a></li>
+    <li>📘 Currently studying <a href=https://docs.flutter.dev>Flutter Android Development</a></li>
   </ul>
 </div>
 <hr>
